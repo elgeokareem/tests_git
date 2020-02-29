@@ -1,0 +1,32 @@
+1- Se crea el repositorio con:
+    git init
+
+2- Despues se colocan parametros como el nombre y el correo:
+
+    git config --global user.name "William Vegas" 
+    git config --global user.email "elkareem123@gmail.com
+
+3- Para añadir archivos a git se coloca:
+    git add archivo
+
+Esto hace tracking de todo lo que tenemos en la carpeta
+
+4- Para chekear que tenemos y que no se usa:
+    git status
+
+5- Para quitar del track un archivo se hace:
+    git rm --cached index.html
+
+6- Para AÑADIR todos los archivos de determinado 
+tipo de extension se usa
+    git add *.html
+
+7- Para AÑADIR TODO se usa
+    git add .
+
+8- Si modificamos un archivo despues de hacer el add
+al ver el status se mostrará como modificado (en rojo)
+para arreglar esto se vuelve a añadir.
+
+9- EL COMMIT:
+    git commit
