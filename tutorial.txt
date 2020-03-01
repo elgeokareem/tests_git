@@ -29,4 +29,7 @@ al ver el status se mostrará como modificado (en rojo)
 para arreglar esto se vuelve a añadir.
 
 9- EL COMMIT:
-    git commit
+    git commit.
+
+    Abrira un archivo VIN(?) y se aprieta la letra I 
+    para comenzar a INSERTAR
