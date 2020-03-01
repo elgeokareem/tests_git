@@ -46,3 +46,4 @@ para arreglar esto se vuelve a añadir.
 
     En el caso de directorios (carpetas) se coloca "/" antes del nombre
     del directorio
+
