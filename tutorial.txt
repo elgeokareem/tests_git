@@ -32,4 +32,4 @@ para arreglar esto se vuelve a añadir.
     git commit.
 
     Abrira un archivo VIN(?) y se aprieta la letra I 
-    para comenzar a INSERTAR
+    para comenzar a INSERTAR  
