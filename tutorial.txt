@@ -33,3 +33,16 @@ para arreglar esto se vuelve a añadir.
 
     Abrira un archivo VIN(?) y se aprieta la letra I 
     para comenzar a INSERTAR
+
+    En vscode se puede insertar por la ventana de git del editor o por 
+    cmd. En esta segunda opcion saldra un archivo de texto.
+
+    Lo que se hace es colocar un comentario en la primera linea, se guarda
+    el archivo, se cierra y listo
+
+10- Para hacer IGNORE
+    se crea un archivo llamado ".gitignore" y dentro de él 
+    se colocan los nombres de los archivos que no se quieren meter
+
+    En el caso de directorios (carpetas) se coloca "/" antes del nombre
+    del directorio
