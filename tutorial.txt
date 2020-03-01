@@ -40,9 +40,23 @@ para arreglar esto se vuelve a añadir.
     Lo que se hace es colocar un comentario en la primera linea, se guarda
     el archivo, se cierra y listo
 
+    Para hacer todo en una linea sin que abra el editor se usa:
+
+    git commit -m 'nombre' ... puede haber espacios y va entre comillas simples
+
 10- Para hacer IGNORE
     se crea un archivo llamado ".gitignore" y dentro de él 
     se colocan los nombres de los archivos que no se quieren meter
 
     En el caso de directorios (carpetas) se coloca "/" antes del nombre
     del directorio
+
+11- Para el BRANCH
+    git branch login ... lo ultimo es el nombre
+
+12- CAMBIAR AL BRANCH
+    Para cambiar del master a la branch se usa:
+    
+    git checkout login ... este ultimo es el nombre del brach 
+
+13- 
