@@ -70,3 +70,5 @@ PRUEBA PARA VER SI SE HACE EL MERGE
 
 15- para agregar data PUSH
     git push -u origin master
+    git push -u origin master --force -->Si se trabaja solo y el
+                                        push da peos
