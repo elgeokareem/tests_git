@@ -57,6 +57,6 @@ para arreglar esto se vuelve a añadir.
 12- CAMBIAR AL BRANCH
     Para cambiar del master a la branch se usa:
     
-    git checkout login ... este ultimo es el nombre del brach 
+    git checkout login ... este ultimo es el nombre del branch 
 
 13- 
