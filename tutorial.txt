@@ -60,3 +60,13 @@ para arreglar esto se vuelve a añadir.
     git checkout login ... este ultimo es el nombre del branch 
 
 PRUEBA PARA VER SI SE HACE EL MERGE
+
+13- Para hacer MERGE (desde la master)
+    git merge branch
+
+14- para hacer REMOTE (link a github)
+    git remove --> Esto da la lista de directorios remotos que tenemos
+    git remote add [nombre_a_poner] [link del repo terminando en .git]
+
+15- para agregar data PUSH
+    git push -u origin master
